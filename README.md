@@ -19,7 +19,7 @@ To analyze inventory data using SQL and visualize inefficiencies such as:
 | `schema.sql`              | SQL script to create the database schema (tables, relationships) |
 | `data_filling.sql`        | SQL script to populate the tables with mock transactional data |
 | `query.sql`               | SQL queries for key analytics insights (e.g., slow-moving products, reorder points, etc.) |
-| `inventory_forecasting.csv` | Forecasted demand data used for comparative and predictive analytics |
+| `inventory_forecasting.csv` | Dataset provided |
 | `Dashboard.pbix`          | Power BI dashboard file showcasing key KPIs and analytics visuals |
 | `Dashboard.pdf`           | PDF version of the dashboard for quick reference |
 | `ERDiagram.png`           | Entity Relationship Diagram illustrating schema design |
