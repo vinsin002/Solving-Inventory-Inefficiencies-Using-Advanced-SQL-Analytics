@@ -9,6 +9,13 @@ To analyze inventory data using SQL and visualize inefficiencies such as:
 - Demand-supply mismatches
 - Regional performance differences
 - Reorder optimization
+---
+
+## 📊 Dashboard Preview
+
+You can view the interactive Power BI dashboard using the following link:
+
+🔗 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgyYjQxZjgtODUyNy00NzNjLTgzZGEtMzljNjYxMDNkNTFmIiwidCI6IjM4ZjYyOTI2LTc1NTktNGFlZi04NGFlLWNiNWUxNzI0MDZmYiJ9)
 
 ---
 
@@ -27,13 +34,6 @@ To analyze inventory data using SQL and visualize inefficiencies such as:
 | `sql_documentation.pdf`   | Documentation of SQL logic and rationale behind query development |
 | `README.md`               | Project overview and documentation (this file) |
 
----
-
-## 📊 Dashboard Preview
-
-You can view the interactive Power BI dashboard using the following link:
-
-🔗 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgyYjQxZjgtODUyNy00NzNjLTgzZGEtMzljNjYxMDNkNTFmIiwidCI6IjM4ZjYyOTI2LTc1NTktNGFlZi04NGFlLWNiNWUxNzI0MDZmYiJ9)
 
 
 
